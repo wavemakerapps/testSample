@@ -1,4 +1,26 @@
 {
+  "JSService" : {
+    "_id" : "wm-JSService-wm.ServiceVariable-1553497329629",
+    "name" : "JSService",
+    "owner" : "Page",
+    "category" : "wm.ServiceVariable",
+    "dataBinding" : [ ],
+    "type" : "string",
+    "service" : "MyJavaService",
+    "operation" : "sampleJavaOperation",
+    "operationId" : "MyJavaController_sampleJavaOperation",
+    "operationType" : "get",
+    "serviceType" : "JavaService",
+    "dataSet" : [ ],
+    "isList" : false,
+    "maxResults" : 20,
+    "startUpdate" : false,
+    "autoUpdate" : true,
+    "inFlightBehavior" : "executeLast",
+    "transformationRequired" : false,
+    "saveInPhonegap" : false,
+    "controller" : "MyJava"
+  },
   "WavemakeronlineInvoke" : {
     "_id" : "wm-WavemakeronlineInvoke-wm.ServiceVariable-1504521413467",
     "name" : "WavemakeronlineInvoke",
