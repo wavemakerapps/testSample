@@ -6,7 +6,8 @@
     "x-WM-USE_PROXY_FOR_MOBILE" : true,
     "x-WM-API_ID" : "26d8b964-729a-432c-8b27-9c93f9bf28ab",
     "x-WM-SERVICE_ID" : "wavemakeronline",
-    "x-WM-SERVICE_TYPE" : "RestService"
+    "x-WM-SERVICE_TYPE" : "RestService",
+    "x-WM-USE_WITH_CREDENTIALS" : false
   },
   "host" : "dev-studio.wavemakeronline.com",
   "basePath" : "",
